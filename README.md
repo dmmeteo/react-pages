@@ -1,0 +1,1 @@
+Test github pages with react static files
